@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://magical-centaur-c8e7a3.netlify.app/](https://magical-centaur-c8e7a3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hammad-portfolio-k4z9.vercel.app/](https://hammad-portfolio-k4z9.vercel.app/)
 
 - 💬 Ask me about **Front-end Development**
 
