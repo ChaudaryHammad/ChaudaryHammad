@@ -1,4 +1,5 @@
 ![logo](https://github.com/ChaudaryHammad/ChaudaryHammad/blob/main/mainbanner.jpg)
+
 <h1 align="center">Hi 👋, I'm Chaudary Hammad</h1>
 <h3 align="center">A passionate web developer</h3>
 <br/>
@@ -17,6 +18,9 @@
 - 📫 How to reach me **ch.hammadbrw01@gmail.com**
 
 - ⚡ Fun fact **Creativity is fun**
+<br/>
+
+[![An image of @chaudaryhammad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaudaryhammad)](https://holopin.io/@chaudaryhammad)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudaryhammad&show_icons=true&locale=en" alt="chaudaryhammad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudaryhammad&" alt="chaudaryhammad" /></p>
-
-
 
