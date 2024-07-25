@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [https://hammad-portfolio-k4z9.vercel.app/](https://hammad-portfolio-k4z9.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hammad-sigma.vercel.app/](https://hammad-sigma.vercel.app/)
 
 - 💬 Ask me about **Frontend Development**
 
