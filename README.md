@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **.Net**
 
-- 👨‍💻 All of my projects are available at [https://hammad-sigma.vercel.app/](https://hammad-sigma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.hammad.live](https://www.hammad.live)
 
 - 💬 Ask me about **Frontend Development.**
 
-- 📫 How to reach me **ch.hammadbrw01@gmail.com**
+- 📫 How to reach me **hammad.node@gmail.com**
 
 - ⚡ Fun fact **Learn patterns, not problems.**
 <br/>
