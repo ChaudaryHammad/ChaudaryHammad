@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.Net**
 
-- 👨‍💻 All of my projects are available at [https://www.hammad.live](https://www.hammad.live)
+- 👨‍💻 All of my projects are available at [www.hammad.live](www.hammad.live)
 
 - 💬 Ask me about **Frontend Development.**
 
