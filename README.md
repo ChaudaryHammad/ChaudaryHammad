@@ -1,24 +1,24 @@
 
 
-<h1 align="center">Hi 👋, I'm Hammad</h1>
-<!-- <h3 align="center"> Developer</h3> -->
-<br/>
-<br/>
+<h1 align="left"><em>"Turning coffee into code."</em></h1>
+<!-- <h3 align="left"> Developer</h3> -->
+
+
 <!-- <img align="right" alt="pic" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudaryhammad&label=Profile%20views&color=0e75b6&style=flat" alt="chaudaryhammad" /> </p>
 
-- 🌱 I’m currently learning **.Net**
+<p align="left">
+🌱 Currently learning <strong>.NET</strong><br/>
+  👨‍💻 Ask me about <strong>Full Stack Development</strong><br/>
+  📫 Reach me at: <strong>hammad.node@gmail.com</strong><br/>
+  📹 Check out my YouTube: <a href="https://www.youtube.com/channel/UCWYKxmAnrGr2_XRhOrXHDlw" target="blank"><strong>CODEjs</strong></a><br/>
+  ⚡ Fun fact: <em>"Learn patterns, not problems."</em>
 
-- 👨‍💻 All of my projects are available at [www.hammad.live](https://www.hammad.live)
-
-- 💬 Ask me about **Frontend Development.**
-
-- 📫 How to reach me **hammad.node@gmail.com**
-
-- ⚡ Fun fact **Learn patterns, not problems.**
+  
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudaryhammad&label=Profile%20views&color=0e75b6&style=flat" alt="chaudaryhammad" /> </p>
+</p>
 
 [![An image of @chaudaryhammad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaudaryhammad)](https://holopin.io/@chaudaryhammad)
 
