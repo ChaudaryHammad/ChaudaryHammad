@@ -26,8 +26,8 @@
 <p align="left">
 <a href="https://twitter.com/hammadverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadverse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhamamd-hammad-a2a372220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamamd-hammad-a2a372220" height="30" width="40" /></a>
-<a href="https://instagram.com/immadiy._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immadiy._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/burno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="burno" height="30" width="40" /></a>
+<a href="https://instagram.com/maddii._1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immadiy._" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWYKxmAnrGr2_XRhOrXHDlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="burno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
