@@ -1,6 +1,6 @@
 
 
-<h1 align="left"><em>"Turning coffee into code."</em></h1>
+<h1 align="left"><em>"I Code."</em></h1>
 <!-- <h3 align="left"> Developer</h3> -->
 
 
