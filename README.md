@@ -1,6 +1,6 @@
 
 
-<h1 align="left"><em>"I Code."</em></h1>
+<h1 align="left"><em>"Works on my machine ¯\_(ツ)_/¯"</em></h1>
 <!-- <h3 align="left"> Developer</h3> -->
 
 
@@ -9,11 +9,11 @@
 
 
 <p align="left">
-🌱 Currently learning <strong>.NET Core</strong><br/>
+🌱 Currently learning <strong>Machine Learning</strong><br/>
   👨‍💻 Ask me about <strong>Full Stack Development</strong><br/>
   📫 Reach me at: <strong>hammad.node@gmail.com</strong><br/>
   📹 Check out my YouTube: <a href="https://www.youtube.com/channel/UCWYKxmAnrGr2_XRhOrXHDlw" target="blank"><strong>CODEjs</strong></a><br/>
-  ⚡ Fun fact: <em>"Learn patterns, not problems."</em>
+  ⚡ Fun fact: <em>"Always Evolving."</em>
 
   
 <br/>
