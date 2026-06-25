@@ -11,7 +11,7 @@
 <p align="left">
 🌱 Currently building <strong><a href="https://loopnode.vercel.app/" target="_blank">LoopNode</a></strong><br/>
   👨‍💻 Ask me about <strong>Full Stack Development</strong><br/>
-  📫 Reach me at: <strong>hammad.node@gmail.com</strong><br/>
+  📫 Reach me at: <strong><a href="mailto:hammad.node@gmail.com">hammad.node@gmail.com</a></strong><br/>
   📹 Check out my YouTube: <a href="https://www.youtube.com/channel/UCWYKxmAnrGr2_XRhOrXHDlw" target="blank"><strong>CODEjs</strong></a><br/>
   ⚡ Fun fact: <em>"Always Evolving."</em>
 
